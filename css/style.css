@@ -1,0 +1,41 @@
+
+body {
+    display: flex
+    
+}
+img {
+    margin: auto;
+    display: block;
+
+}
+
+.card {
+    border: solid 1px lightblue; 
+    margin: 1em; 
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+
+.card h2 {
+    text-align: center;
+    border: 1px dotted grey;
+    color: darkblue;
+}
+
+.card h3 {
+    background-color: darkgray;
+    color: yellow;
+}
+.card ul {   
+    list-style-type: none;
+}
+
+.card li {
+    font-weight: bold;
+    text-align: left; 
+     
+}
+.card h4 {
+    font-size: .5em;
+}
